@@ -167,7 +167,7 @@ article button:hover {
 footer {
   display: flex;
   padding: 32px 300px;
-  justify-content: center;
+  justify-content: space-between;
   align-items: flex-start;
   gap: 416px;
   background: #372d23;
